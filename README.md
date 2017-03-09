@@ -17,3 +17,9 @@ Installation
 composer require youwe/pimcore-object-defaults
 ```
 
+Add to /.gitignore :
+
+```
+/plugins/PimcoreObjectDefaults
+```
+
