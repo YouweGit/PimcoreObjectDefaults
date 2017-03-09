@@ -1,0 +1,2 @@
+
+PimcoreObjectDefaults Plugin works!
